@@ -1,0 +1,23 @@
+name: udvc_vibe
+description: UDVC TW - แอปชุมชนนักเรียนวิทยาลัยอาชีวศึกษาอุดรธานี
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  supabase_flutter: ^2.5.0
+  provider: ^6.1.2
+  image_picker: ^1.1.2
+  shared_preferences: ^2.2.3
+  url_launcher: ^6.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
