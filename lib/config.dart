@@ -2,8 +2,8 @@
 /// Supabase Dashboard > Settings > API Keys : คัดลอก Project URL และ publishable key
 /// (ห้ามใส่ secret key ในแอปเด็ดขาด)
 class AppConfig {
-  static const String supabaseUrl = 'https://YOUR-PROJECT-REF.supabase.co';
-  static const String supabaseKey = 'sb_publishable_YOUR_KEY';
+  static const String supabaseUrl = 'https://czbkfdwodkatnehogwau.supabase.co';
+  static const String supabaseKey = 'sb_publishable_oFl6-hEooH2Tj0oiVCmSkw_LWIwCWTU';
 
   /// โดเมนอีเมลภายในที่ใช้สร้างจากชื่อผู้ใช้ (ผู้ใช้ไม่ต้องกรอกอีเมล)
   static const String emailDomain = 'udvc-vibe.app';
